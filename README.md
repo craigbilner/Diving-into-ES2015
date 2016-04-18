@@ -88,8 +88,8 @@ go ahead and do that in the root of your code directory that we created.
 
 ```json
 {
-  presets: [
-    'es2015'
+  "presets": [
+    "es2015"
   ]
 }
 ```
